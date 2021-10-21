@@ -1,0 +1,52 @@
+html
+{
+    background-image: url('../img/castle6.jpg');
+    background-repeat: no-repeat;		
+	background-position: top;	
+	background-size: cover;
+	height: 100vh; 
+    background-attachment: fixed;
+}
+#grid-container
+{
+    margin: 0 auto;
+    width: 90%;
+    display: grid;
+    grid-gap: 10px;
+    /* Column and Row Sizes */
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto; 
+    column-gap: 10px;
+    row-gap: 15px;
+}
+img
+{
+   max-width: 100%;
+   min-width: 350px;
+}
+section 
+{
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav
+{
+    display: flex;
+    background-color: rgba(60, 150, 50, 0.85);  
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+a:link
+{
+    color: white;
+}
+#social-media1
+{
+    width: 50px;
+}
+#social-media2
+{
+    width: 50px;
+}
