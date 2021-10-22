@@ -1,14 +1,13 @@
 # SAIT Web Development
-# CPNT 260: Web Page Construction Fundamentals
-## Assignment 2 - Services, Info, Team Members, or Product Page
+# CPNT 262 Assignment 2 - Dynamic Image Gallery
 
 # Author Name:
 Christopher Barber
 
 ## Github Repo:
-https://github.com/13retonnian/cpnt260-a3
+https://github.com/13retonnian/cpnt262-a2
 ## Github Pages:
-https://13retonnian.github.io/cpnt260-a3/
+https://13retonnian.github.io/cpnt262-a2/
 
 ### Code Review (less than 500 words):
 
