@@ -1,7 +1,0 @@
-castle1: https://pixabay.com/photos/castle-building-fortress-facade-1483681/
-castle2: https://pixabay.com/photos/stirling-castle-scotland-stirling-202103/
-castle3: https://pixabay.com/photos/mountains-sunset-germany-fortress-6531264/
-castle4: https://pixabay.com/photos/neuschwanstein-castle-germany-2602208/
-castle5: https://pixabay.com/photos/heritage-japan-castle-himeji-white-5430081/
-ruin1: https://pixabay.com/photos/ruin-castle-middle-ages-dramatic-3746423/
-ruin2: https://pixabay.com/photos/castle-ruins-fortress-fort-195105/
