@@ -1,4 +1,6 @@
+"use strict";
 const imageSection = document.querySelector(".image-section");
+//code loops through castles object pulling out objects one by one and outputting the required data to the HTML
 let i = 0;
 const castleOutput = function() {  
   imageSection.innerHTML += `
@@ -11,5 +13,4 @@ const castleOutput = function() {
   </figcaption>`;
   i++;
 }
-
 castles.forEach(castleOutput);
